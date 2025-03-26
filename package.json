@@ -1,7 +1,7 @@
 {
   "name": "hexo-generator-seo-better-sitemap",
   "description": "SEO-friendly sitemap generator plugin for Hexo",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "ChrAlpha",
   "bugs": {
     "url": "https://github.com/chralpha/hexo-generator-seo-better-sitemap/issues"
