@@ -4,7 +4,7 @@
   "version": "0.0.3",
   "author": "ChrAlpha",
   "bugs": {
-    "url": "https://github.com/limhepro/hexo-generator-seo-better-sitemap/issues"
+    "url": "https://github.com/chralpha/hexo-generator-seo-better-sitemap/issues"
   },
   "dependencies": {
     "bluebird": "3.5.4",
@@ -35,7 +35,7 @@
     "README.md",
     "LICENSE"
   ],
-  "homepage": "https://github.com/limhepro/hexo-generator-seo-better-sitemap#readme",
+  "homepage": "https://github.com/chralpha/hexo-generator-seo-better-sitemap#readme",
   "keywords": [
     "generator",
     "google",
@@ -47,7 +47,7 @@
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "https://github.com/limhepro/hexo-generator-seo-better-sitemap.git"
+    "url": "https://github.com/chralpha/hexo-generator-seo-better-sitemap.git"
   },
   "scripts": {
     "test": "./node_modules/.bin/jest test",
